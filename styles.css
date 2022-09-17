@@ -108,10 +108,10 @@ section ul li:hover {
     border-radius: 8px;
 }
 
-.channel-list img {
+.channel-list img   {
     width: 70px;
     border-radius: 50%;
-    border : 1px solid #443E5;
+    border : 1px solid #443e54;
 }
 
 /* animation */
